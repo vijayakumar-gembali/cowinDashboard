@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.vaccine-container {
+  background-color: #1c1c2b;
+  padding-top: 20px;
+  margin-right: 50px;
+  padding-left: 20px;
+}
+.coverage-heading {
+  color: #94a3b8;
+  font-family: 'roboto';
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
